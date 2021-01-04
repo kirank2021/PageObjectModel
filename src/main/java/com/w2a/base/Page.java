@@ -138,6 +138,7 @@ public class Page {
 	}
 	public static void quit() {
 		//driver.quit();
+		//l
 	}
 	public static void type(String locator,String value ) {
 		//driver.findElement(By.xpath(OR.getProperty(locator))).sendKeys(value);
